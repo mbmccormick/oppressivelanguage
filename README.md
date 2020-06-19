@@ -2,7 +2,7 @@
 
 **Why use a metaphor when a direct description is both succinct and clear?**
 
-The IETF document titled [Terminology, Power, and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html) argues for and describes alternatives that shift specific language conventions used by RFC Authors and RFC Editors to avoid oppressive terminology in the technical documentation of the RFC series.
+The Internet Engineering Task Force (IETF) document titled [Terminology, Power, and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html) argues for and describes alternatives that shift specific language conventions used by RFC Authors and RFC Editors to avoid oppressive terminology in the technical documentation of the RFC series.
 
 Complex and subtle configurations of sexist, racist, or ethnocentric language used in technical conversation, documents, or code can derail or interfere with one's ability and desire to comprehend and follow important information.
 
