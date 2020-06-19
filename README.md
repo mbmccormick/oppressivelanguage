@@ -68,7 +68,7 @@ This repository is intended to be an open source collection of oppressive langua
 
 ## Contributing
 
-This document is intended to be an open source collection of oppressive language used in throughout the technical vocabulary. Contributions are welcomed and encouraged from the community.
+This repository is intended to be an open source collection of oppressive language used in the technical vocabulary and recommends more appropriate terminology. Contributions are welcomed and encouraged from the community.
 
 When adding an item to the **Terminology** section above, please use the following format:
 
