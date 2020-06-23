@@ -95,3 +95,5 @@ When adding an item to the **Terminology** section above, please use the followi
 [Terminology, Power, and Oppressive Language (IETF)](https://tools.ietf.org/id/draft-knodel-terminology-00.html)
 
 [Metaphors in man pages (Julia Evans)](https://jvns.ca/blog/2020/05/08/metaphors-in-man-pages/)
+
+[Easily rename your Git default branch from master to main](https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx)
