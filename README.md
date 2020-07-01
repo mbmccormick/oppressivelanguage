@@ -31,11 +31,13 @@ This repository is intended to be an open source collection of oppressive langua
 - Writer-reader
 - Coordinator-worker
 - Parent-helper
+- Controller-peripheral
 
 **References:**
 
 - https://tools.ietf.org/id/draft-knodel-terminology-00.html#rfc.section.1.1
 - https://en.wikipedia.org/wiki/Master/slave_(technology)
+- https://www.oshwa.org/a-resolution-to-redefine-spi-signal-names
 
 ### Blacklist / Whitelist
 
