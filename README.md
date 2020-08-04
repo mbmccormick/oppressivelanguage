@@ -65,6 +65,17 @@ This repository is intended to be an open source collection of oppressive langua
 - https://en.wikipedia.org/wiki/Brown_Paper_Bag_Test
 - https://www.ferris.edu/HTMLS/news/jimcrow/question/2014/february.htm
 
+### Male / Female
+
+*Many cable connectors are assigned the labels male/female, in reference to whether they are the insertive or receptive component. This naming convention makes an inappropriate reference to genitalia and is exclusive of the LGBTQ+ community.*
+
+**Recommended alternatives**
+- A / B
+- Plug / Socket
+- Sword / Sheath
+
+**References:**
+- https://www.lastwordonnothing.com/2015/11/27/a-modest-proposal-for-re-naming-connectors-and-fasteners/
 
 ## Contributing
 
