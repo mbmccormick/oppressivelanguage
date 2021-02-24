@@ -109,4 +109,6 @@ When adding an item to the **Terminology** section above, please use the followi
 
 [Metaphors in man pages (Julia Evans)](https://jvns.ca/blog/2020/05/08/metaphors-in-man-pages/)
 
+[Inclusive Language in Technology (Northwestern University)](https://www.it.northwestern.edu/about/it-projects/dei/glossary.html)
+
 [Easily rename your Git default branch from master to main](https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx)
