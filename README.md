@@ -2,7 +2,7 @@
 
 **Why use a metaphor when a direct description is both succinct and clear?**
 
-The Internet Engineering Task Force (IETF) document titled [Terminology, Power, and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html) argues for and describes alternatives that shift specific language conventions used by RFC Authors and RFC Editors to avoid oppressive terminology in the technical documentation of the RFC series.
+The Internet Engineering Task Force (IETF) document titled [Terminology, Power, and Oppressive Language](https://datatracker.ietf.org/doc/draft-knodel-terminology/) argues for and describes alternatives that shift specific language conventions used by RFC Authors and RFC Editors to avoid oppressive terminology in the technical documentation of the RFC series.
 
 Complex and subtle configurations of sexist, racist, or ethnocentric language used in technical conversation, documents, or code can derail or interfere with one's ability and desire to comprehend and follow important information.
 
@@ -35,7 +35,7 @@ This repository is intended to be an open source collection of oppressive langua
 
 **References:**
 
-- https://tools.ietf.org/id/draft-knodel-terminology-00.html#rfc.section.1.1
+- https://datatracker.ietf.org/doc/html/draft-knodel-terminology-05#section-3.1
 - https://en.wikipedia.org/wiki/Master/slave_(technology)
 - https://www.oshwa.org/a-resolution-to-redefine-spi-signal-names
 
@@ -50,7 +50,7 @@ This repository is intended to be an open source collection of oppressive langua
 
 **References:**
 
-- https://tools.ietf.org/id/draft-knodel-terminology-00.html#rfc.section.1.2
+- https://datatracker.ietf.org/doc/html/draft-knodel-terminology-05#section-3.2
 - https://en.wikipedia.org/wiki/Blacklisting
 - https://en.wikipedia.org/wiki/Whitelisting
 
@@ -105,7 +105,9 @@ When adding an item to the **Terminology** section above, please use the followi
 
 ## Resources
 
-[Terminology, Power, and Oppressive Language (IETF)](https://tools.ietf.org/id/draft-knodel-terminology-00.html)
+[Terminology, Power, and Oppressive Language (IETF)](https://datatracker.ietf.org/doc/draft-knodel-terminology/)
+
+[Inclusive Naming Initiative](https://inclusivenaming.org/)
 
 [Metaphors in man pages (Julia Evans)](https://jvns.ca/blog/2020/05/08/metaphors-in-man-pages/)
 
