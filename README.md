@@ -1,4 +1,4 @@
-# Inclusive Language
+# Oppressive Language
 
 **Why use a metaphor when a direct description is both succinct and clear?**
 
