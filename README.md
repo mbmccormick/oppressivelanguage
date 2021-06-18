@@ -1,4 +1,4 @@
-# Oppressive Language
+# Inclusive Language
 
 **Why use a metaphor when a direct description is both succinct and clear?**
 
@@ -6,7 +6,7 @@ The Internet Engineering Task Force (IETF) document titled [Terminology, Power, 
 
 Complex and subtle configurations of sexist, racist, or ethnocentric language used in technical conversation, documents, or code can derail or interfere with one's ability and desire to comprehend and follow important information.
 
-This repository is intended to be an open source collection of oppressive language used in the technical vocabulary and recommends more appropriate terminology.
+This repository is intended to be an open source collection of exclusionary or oppressive language used in the technical vocabulary and recommends more inclusive alternatives.
 
 ## Principles
 
@@ -108,6 +108,8 @@ When adding an item to the **Terminology** section above, please use the followi
 [Terminology, Power, and Oppressive Language (IETF)](https://datatracker.ietf.org/doc/draft-knodel-terminology/)
 
 [Inclusive Naming Initiative](https://inclusivenaming.org/)
+
+['Master,' 'Slave' and the Fight Over Offensive Terms in Computing (New York Times)](https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html)
 
 [Metaphors in man pages (Julia Evans)](https://jvns.ca/blog/2020/05/08/metaphors-in-man-pages/)
 
